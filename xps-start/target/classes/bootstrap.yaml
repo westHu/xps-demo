@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: xps-demo
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848    #注册中心地址
+        namespace: b9023ead-e378-45ed-b421-2350a8053f5c      #命名空间的id
+      config:
+        server-addr: localhost:8848   #配置中心地址
+        file-extension: yaml  #后缀名
+        group: DEFAULT_GROUP      #分组
+        namespace: b9023ead-e378-45ed-b421-2350a8053f5c  #命名空间的id

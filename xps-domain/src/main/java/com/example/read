@@ -1,0 +1,15 @@
+数据聚合
+领域能力
+repository
+aggregate 聚合根
+
+a、通过直接调用
+service -> mapper
+
+b、通过发布事件来执行.
+ApplicationEventPublisher *默认
+EventBus
+Disruptor
+
+简单查询可通过'a'
+复杂、异步可通过'b'

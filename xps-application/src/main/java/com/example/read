@@ -1,0 +1,6 @@
+主要区分query、command
+
+query: 视情况而定 1、可调用domain service; 2、可调用infrastructure mapper
+command: 有比较复杂的流程编排
+    1、可调用domain的Repository，偏复杂, eg:  BookDeleteCommand 删book同时删story
+    2、可调用domain的Service，简单操作， eg: 删story

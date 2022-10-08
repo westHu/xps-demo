@@ -1,0 +1,10 @@
+D:\code\xps-demo\xps-demo\xps-domain\src\main\java\com\example\service\impl\BookServiceImpl.java
+D:\code\xps-demo\xps-demo\xps-domain\src\main\java\com\example\aggregate\book\BookDO.java
+D:\code\xps-demo\xps-demo\xps-domain\src\main\java\com\example\repository\BookRepository.java
+D:\code\xps-demo\xps-demo\xps-domain\src\main\java\com\example\aggregate\BaseDO.java
+D:\code\xps-demo\xps-demo\xps-domain\src\main\java\com\example\event\DomainEventPublisher.java
+D:\code\xps-demo\xps-demo\xps-domain\src\main\java\com\example\event\BookCreateEvent.java
+D:\code\xps-demo\xps-demo\xps-domain\src\main\java\com\example\event\DomainEventPublisherImpl.java
+D:\code\xps-demo\xps-demo\xps-domain\src\main\java\com\example\aggregate\book\StoryDO.java
+D:\code\xps-demo\xps-demo\xps-domain\src\main\java\com\example\event\BaseDomainEvent.java
+D:\code\xps-demo\xps-demo\xps-domain\src\main\java\com\example\service\BookService.java

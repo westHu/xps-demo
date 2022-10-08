@@ -1,0 +1,11 @@
+com\example\command\BookCmdService.class
+com\example\query\param\BookQueryParam.class
+com\example\flow\SlotInitCmp.class
+com\example\command\impl\BookCmdServiceImpl.class
+com\example\command\cmd\BookDeleteCommand.class
+com\example\flow\CheckCmp.class
+com\example\query\BookQueryService.class
+com\example\query\dto\BookDTO.class
+com\example\assembler\BookConverter.class
+com\example\flow\PriceContext.class
+com\example\query\impl\BookQueryServiceImpl.class

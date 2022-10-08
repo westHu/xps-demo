@@ -1,0 +1,10 @@
+com\example\aggregate\book\BookDO.class
+com\example\aggregate\book\StoryDO.class
+com\example\event\BookCreateEvent.class
+com\example\event\BaseDomainEvent.class
+com\example\repository\BookRepository.class
+com\example\service\BookService.class
+com\example\event\DomainEventPublisherImpl.class
+com\example\event\DomainEventPublisher.class
+com\example\aggregate\BaseDO.class
+com\example\service\impl\BookServiceImpl.class

@@ -1,0 +1,15 @@
+server:
+  port: 8403
+
+spring:
+  application:
+    name: xps-demo
+  cloud:
+    nacos:
+#      discovery:
+#        server-addr: localhost:8848    #注册中心地址
+      config:
+        server-addr: localhost:8848   #配置中心地址
+        file-extension: yaml  #后缀名
+        group: devGroup      #分组
+        namespace: 20092680-6d22-4795-81e2-79d18beb6542  #命名空间的id
